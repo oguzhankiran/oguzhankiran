@@ -31,10 +31,13 @@
 
 ---
 
-### 💻 Öne Çıkan Projelerim
-* **[CariPilot](https://caripilot.com):** .NET tabanlı gelişmiş cari takip ve yönetim sistemi.
-* **[Kıran Academy](https://kiranacademy.com.tr):** .NET ve Razor MVC altyapılı kurumsal eğitim platformu.
-* **Kurumsal Otomasyonlar:** .NET Core ve MSSQL kullanılarak geliştirilen yurt ve akademi yönetim sistemleri.
+## 🏗️ Öne Çıkan Projeler
+
+| Proje | Açıklama | Stack | Link |
+|-------|----------|-------|------|
+| CariPilot | Küçük-orta ölçekli işletmeler için cari takip sistemi | .NET 10, MSSQL, EF Core | [caripilot.com](https://caripilot.com) |
+| Kıran Academy | Kurumsal eğitim platformu | .NET 10, MVC Razor | [kiranacademy.com.tr](https://kiranacademy.com.tr) |
+| Molapp | AI destekli mobil + arayüz (Ionic, Angular) | .NET 10, MediatR | - |
 
 ---
 
